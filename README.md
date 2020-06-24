@@ -56,4 +56,5 @@ Criar página pages/contato.js com base na index
 
 Modificar retur das páginas, incluir () para mais linhas
 
-Iniciando components/Menu
+* Iniciando components/Menu
+* linkStyle components/Menu
