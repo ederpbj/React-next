@@ -88,3 +88,18 @@ Importar em todas as páginas (para next)
 `import 'bootstrap/dist/css/bootstrap.min.css';`
 
 Criar arquivo na raiz (root) next.config.js
+
+* Implementando components bootstrap
+
+[Components reactstrap](https://reactstrap.github.io/components/alerts/)
+
+* Spinners
+
+- Importar em contato
+- Personalizar spinner
+
+[Doc Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+
+- pesquisar spinner
+- flex
+
