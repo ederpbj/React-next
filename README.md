@@ -58,3 +58,33 @@ Modificar retur das páginas, incluir () para mais linhas
 
 * Iniciando components/Menu
 * linkStyle components/Menu
+
+Rodar em modo dev | `npm run dev`
+
+Iniciando com Bootstrap
+
+[Reactstrap](https://reactstrap.github.io/)
+
+* Instalando Bootstrap
+
+Ir para parte
+** Adding Bootstrap
+
+Instalar biblioteca para gerenciar o Bootstrap. 
+
+[reactstrap](https://github.com/reactstrap/reactstrap)
+
+Instalar bootstrap | `npm install --save bootstrap`
+Instalar reactstrap | `npm install --save reactstrap`
+
+Instalar next-css
+
+[next-css](https://github.com/vercel/next-plugins/tree/master/packages/next-css)
+
+Instalar Biblioteca next-css | `npm install --save @zeit/next-css`
+
+Importar em todas as páginas (para next)
+
+`import 'bootstrap/dist/css/bootstrap.min.css';`
+
+Criar arquivo na raiz (root) next.config.js
