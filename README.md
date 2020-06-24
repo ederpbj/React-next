@@ -66,16 +66,17 @@ Rodar em modo dev | `npm run dev`
 
 ## Iniciando com Bootstrap
 
-[Reactstrap](https://reactstrap.github.io/)
-
 ### Instalando Bootstrap e next-css
 
-Ir para parte
+No site Ir para parte
+
+[Reactstrap](https://reactstrap.github.io/)
+
 ** Adding Bootstrap
 
 Instalar biblioteca para gerenciar o Bootstrap. 
 
-[reactstrap](https://github.com/reactstrap/reactstrap)
+[reactstrap no git](https://github.com/reactstrap/reactstrap)
 
 Instalar bootstrap | `npm install --save bootstrap`
 Instalar reactstrap | `npm install --save reactstrap`
@@ -106,3 +107,10 @@ Criar arquivo na raiz (root) next.config.js
 - pesquisar spinner
 - flex
 
+### Navbar
+
+Importar navbar do reactstrap
+
+[navbar](https://reactstrap.github.io/components/navbar/)
+
+:: klkj
