@@ -1,10 +1,10 @@
-function Sobre() {
+function Contato() {
   return (
     <div>
       Menu <br />
-      Sobre
+      Contato
     </div>
   )
 }
 
-export default Sobre
+export default Contato
