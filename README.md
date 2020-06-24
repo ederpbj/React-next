@@ -54,9 +54,11 @@ Criar página pages/sobre.js com base na index
 
 Criar página pages/contato.js com base na index
 
+### Modificando páginas
+
 Modificar return das páginas, incluir () para mais linhas
 
-* Iniciando components/Menu
+### Iniciando components/Menu
 
 ### linkStyle components/Menu
 
