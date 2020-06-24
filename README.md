@@ -28,11 +28,13 @@ Instalar o react e next [Docs Next.org](https://nextjs.org/docs/getting-started)
 `npm install next react react-dom`
 
 Abra package.json e adicione o script: 
+````
 "scripts": {
   "dev": "next",
   "build":"next build",
   "start": "next start",
 }
+````
 
 Criar pasta pages/index.js, seguindo site next
 ````
@@ -44,4 +46,5 @@ Criar pasta pages/index.js, seguindo site next
 ````
 * Gera pasta next
 
-Criar página pages/sobre.js
+Criar página pages/sobre.js com base na index
+
