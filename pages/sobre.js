@@ -1,7 +1,9 @@
+import Menu from '../components/Menu';
+
 function Sobre() {
   return (
     <div>
-      Menu <br />
+      <Menu />
       Sobre
     </div>
   )

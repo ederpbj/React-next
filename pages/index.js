@@ -1,7 +1,9 @@
+import Menu from '../components/Menu';
+
 function HomePage() {
   return (
     <div>
-      Menu <br />
+      <Menu />
       Home
     </div>
   )

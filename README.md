@@ -21,14 +21,15 @@ Clonar git | `git clone https://github.com/ederpbj/React-next.git`
 
 Ir para pasta | `cd React-next`
 
-Criar package.json
-`npm init`
+Criar package.json | `npm init`
 
-Instalar o react e next 
+Ver site: 
 
 [Docs Next.org](https://nextjs.org/docs/getting-started)
 
-`npm install next react react-dom`
+Instalar o react e next  | `npm install next react react-dom`
+
+
 
 Abra package.json e adicione o script: 
 ````
@@ -47,7 +48,7 @@ Criar pasta pages/index.js, seguindo site next
 
   export default HomePage
 ````
-* Gera pasta next
+Gera pasta next
 
 Criar página pages/sobre.js com base na index
 
@@ -55,3 +56,4 @@ Criar página pages/contato.js com base na index
 
 Modificar retur das páginas, incluir () para mais linhas
 
+Iniciando components/Menu
