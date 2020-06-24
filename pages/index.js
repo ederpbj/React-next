@@ -1,7 +1,7 @@
 import Menu from '../components/Menu';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function HomePage() {
+function Home() {
   return (
     <div>
       <Menu />
@@ -10,4 +10,4 @@ function HomePage() {
   )
 }
 
-export default HomePage
+export default Home;

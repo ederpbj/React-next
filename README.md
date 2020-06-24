@@ -1,6 +1,8 @@
 # React-next
 Site React com next js
 
+[Introdução: Como criar site com React e Next.js](https://www.youtube.com/watch?v=WRFzOcPNcfY&feature=youtu.be&utm_source=leadlovers&utm_medium=email&utm_campaign=%5BLive%20AQC%20001%20-%20Introducao%20-%20Criar%20site%20com%20React%20e%20Next.js%5D%20&utm_content=Inscrio%20confirmada%20para%20LIVE)
+
 [Meu Git](https://github.com/ederpbj/React-next)
 
 # Resumo
@@ -118,3 +120,11 @@ Limpar menu anterior, seguir padrão bootstrap
 Correção de Erro
 
 Remover node modules | `rimraf node_modules`
+
+Menu anterior
+
+Reinstalar npm | `npm i`
+
+Testar | `npm run dev`
+
+Continua ...
