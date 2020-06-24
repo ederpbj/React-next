@@ -113,4 +113,8 @@ Importar navbar do reactstrap
 
 [navbar](https://reactstrap.github.io/components/navbar/)
 
-:: klkj
+Limpar menu anterior, seguir padrão bootstrap
+
+Correção de Erro
+
+Remover node modules | `rimraf node_modules`
