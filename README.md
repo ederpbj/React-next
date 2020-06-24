@@ -64,7 +64,7 @@ Modificar return das páginas, incluir () para mais linhas
 
 Rodar em modo dev | `npm run dev`
 
-Iniciando com Bootstrap
+## Iniciando com Bootstrap
 
 [Reactstrap](https://reactstrap.github.io/)
 
