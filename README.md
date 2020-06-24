@@ -54,10 +54,11 @@ Criar página pages/sobre.js com base na index
 
 Criar página pages/contato.js com base na index
 
-Modificar retur das páginas, incluir () para mais linhas
+Modificar return das páginas, incluir () para mais linhas
 
 * Iniciando components/Menu
-* linkStyle components/Menu
+
+### linkStyle components/Menu
 
 Rodar em modo dev | `npm run dev`
 
@@ -65,7 +66,7 @@ Iniciando com Bootstrap
 
 [Reactstrap](https://reactstrap.github.io/)
 
-* Instalando Bootstrap
+### Instalando Bootstrap e next-css
 
 Ir para parte
 ** Adding Bootstrap
@@ -93,7 +94,7 @@ Criar arquivo na raiz (root) next.config.js
 
 [Components reactstrap](https://reactstrap.github.io/components/alerts/)
 
-* Spinners
+### Spinners
 
 - Importar em contato
 - Personalizar spinner
